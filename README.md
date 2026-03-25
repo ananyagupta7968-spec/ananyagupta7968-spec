@@ -33,11 +33,4 @@ I am a first-year Computer Science student currently learning the fundamentals o
 
 ---
 
-## 🔗 Connect with Me
-- LinkedIn: (add your link)  
-- Kaggle: (add your link)  
-- HackerRank: (add your link)  
-
----
-
 ✨ *This profile is part of my Digital Literacy Project.*
